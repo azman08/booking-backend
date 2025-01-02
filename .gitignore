@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+*.tgz
+
+# Dependency directories
+jspm_packages/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Optional
+coverage/
